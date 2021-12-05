@@ -1,13 +1,20 @@
-# Insira aqui o nome do exercício
+# SequenciaLimites
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
+* 🖥️ Exercício: Laços (3) - Sequência Limites
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md
   
-## Enunciado
-  
-Insira aqui a descrição do exercício
+## Exercício `SequenciaLimites`
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Receba 2 números inteiros. Se o segundo for menor que o primeiro, exibir uma mensagem de erro. Caso contrário, exibir todos os números inteiros entre eles (inclusive).
+
+Ex.:
+```
+Início: -3
+Fim: 7
+-3 -2 -1 0 1 2 3 4 5 6 7
+```
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
